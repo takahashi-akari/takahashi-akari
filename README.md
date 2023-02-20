@@ -196,3 +196,9 @@ Description: A simple 3-way handshake written in Rust
 URL: [https://github.com/takahashi-akari/rust-simple-rest-api-server](https://github.com/takahashi-akari/rust-simple-rest-api-server)  
 
 Description: A simple REST API server written in Rust
+
+## vue-responsive-font 📖
+
+URL: [https://github.com/takahashi-akari/vue-responsive-font](https://github.com/takahashi-akari/vue-responsive-font)  
+
+Description: A Vue.js component for responsive font size
