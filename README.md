@@ -1,16 +1,20 @@
-### Hi there 👋
-## this site is not available now.
-  
-**takahashi-akari/takahashi-akari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Akari 👋
 
-Here are some ideas to get you started:
+I'm a software engineer, interested in developing web applications and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 I’m currently learning
 
+- React.js
+- TypeScript
+- PyTorch
+
+### 💻 Skills
+
+- JavaScript
+- Python
+- Ruby on Rails
+- SQL
+
+### 📫 How to reach me
+
+- Email: akaritakahashioss@gmail.com
